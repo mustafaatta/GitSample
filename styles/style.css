@@ -10,6 +10,9 @@ li{
   padding: 5px;
   margin-bottom: 5px;
   width: 200px;
-  color: #293540;
-  border: solid 1px #FEC20F;
+  color: blue;
+  border: solid 1px red;
+  list-style: none;
 }
+
+
