@@ -7,9 +7,10 @@ h1{
 }
 
 li{
-  padding: 5px;
+    padding: 5px;
   margin-bottom: 5px;
   width: 200px;
-  color: #293540;
-  border: solid 1px #FEC20F;
+  color: white;
+  border: solid 2px #FEC20F;
+  background-color: #293540;
 }
